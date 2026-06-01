@@ -1,0 +1,17 @@
+# Node
+frontend/Lahore-frontend/node_modules/
+frontend/Lahore-frontend/dist/
+
+pictures
+
+# .NET
+backend-dotnet/bin/
+backend-dotnet/obj/
+
+# Local-only
+*.log
+*.rar
+.vscode/
+
+Data/walk_edges.geojson
+Data/walk_nodes.geojson
